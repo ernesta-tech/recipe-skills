@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "recipe-skills",
+  "version": "0.1.0",
+  "description": "Workato recipe skills: base + connector skills that teach an agent to generate valid Workato recipe JSON",
+  "author": {
+    "name": "Workato Labs"
+  },
+  "homepage": "https://github.com/workato-devs/recipe-skills",
+  "repository": "https://github.com/workato-devs/recipe-skills",
+  "license": "MIT",
+  "keywords": ["workato", "recipes", "skills", "automation", "integration"]
+}
